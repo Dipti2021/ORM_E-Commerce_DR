@@ -77,11 +77,11 @@ command to run the app
  1. CREATE, UPDATE & DELETE- Products
  ![image5](Assets/products.gif)
  
- 2.  1. CREATE, UPDATE & DELETE- Tags
+ 2. CREATE, UPDATE & DELETE- Tags
  ![image1](Assets/products.gif)
  
-  2.  1. CREATE, UPDATE & DELETE- Categories
- ![image1](Assets/cat.gif)
+  3. CREATE, UPDATE & DELETE- Categories
+ ![image1](Assets/categories.gif)
  
  You can also view the same code as a video by clicking on [this Youtube link](https://www.youtube.com/watch?v=AwkMgw_AwpU)
 
