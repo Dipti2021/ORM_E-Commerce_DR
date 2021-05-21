@@ -14,7 +14,6 @@ Back end for an e-commerce website that uses the latest technologies so that the
 * [Deployed Application](#web)
 * [Deployment](#installations)
 * [Questions](#ques)
-* [Credits](#credits)
 
  ## Introduction 
 I have created the backend of an E-Commerce website. MySQL is used as the database and Sequelize packages are used to connect the Express.js API to the database. The SQL database includes tables for products, categories, tags, and product tags. Also, the RESTful API routes are used to make requests and updates from the database. Being a back end Code, I have used __Insomnia__ as the API design platform. All the outputs can been tested via the same design.
@@ -70,24 +69,30 @@ command to run the app
   
  
  ## Demo of the App
- A demo of the app has been uploaded as a gif
- ![image1](Assets/Employee.gif)
+ A demo of this app has been divided into 3 parts. Each gif shows the _CREATE, UPDATE & DELETE_ outputs for the _products, tags and categories_ created.
  
- You can also view the same code as a video by clicking on [this Youtube link](https://www.youtube.com/watch?v=aktnRELpJv0)
+ 1. CREATE, UPDATE & DELETE- Products
+ ![image5](Assets/products.gif)
+ 
+ 2.  1. CREATE, UPDATE & DELETE- Tags
+ ![image1](Assets/products.gif)
+ 
+  2.  1. CREATE, UPDATE & DELETE- Categories
+ ![image1](Assets/cat.gif)
+ 
+ You can also view the same code as a video by clicking on [this Youtube link](https://www.youtube.com/watch?v=AwkMgw_AwpU)
 
  
 
  
  ## Deployment
  Attached is the Github repo for the code
-   * [The URL of the Github repo](https://github.com/Dipti2021/Employee_Management_System_DR)
+   * [The URL of the Github repo](https://github.com/Dipti2021/ORM_E-Commerce_DR)
    
 
  ## Questions
 In case of any questions, contact me through any of the following methods:
- * If you want you can [open an issue](https://github.com/Dipti2021/NotesTaker_DR/issues) and let me know about it.
+ * If you want you can [open an issue]https://github.com/Dipti2021/ORM_E-Commerce_DR/issues) and let me know about it.
 
 
     
- ## Credits
-    The homework has been assigned to me by the Carleton University Coding Bootcamp, our instructor and the TA's
