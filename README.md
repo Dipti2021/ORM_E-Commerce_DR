@@ -77,17 +77,17 @@ command to run the app
   
  
  ## Demo of the App
- A demo of this app has been divided into 3 parts. Each gif shows the _CREATE, UPDATE & DELETE_ outputs for the _products, tags and categories_ created.
+ A demo of this app has been divided into 3 parts. Each gif shows the _CREATE, UPDATE, GET & DELETE_ outputs for the _products, tags and categories_ created.
  
- 1. __CREATE, UPDATE & DELETE - Products__
+ 1. __CREATE, UPDATE, GET & DELETE - Products__
  
  ![image5](Assets/products.gif)
  
- 2. __CREATE, UPDATE & DELETE - Tags__
+ 2. __CREATE, UPDATE, GET & DELETE - Tags__
  
  ![image1](Assets/products.gif)
  
-  3. __CREATE, UPDATE & DELETE - Categories__
+  3. __CREATE, UPDATE, GET & DELETE - Categories__
   
  ![image1](Assets/categories.gif)
  
