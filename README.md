@@ -103,7 +103,7 @@ command to run the app
 
  ## Questions
 In case of any questions, contact me through any of the following methods:
- * If you want you can [open an issue]https://github.com/Dipti2021/ORM_E-Commerce_DR/issues) and let me know about it.
+ * If you want you can [open an issue](https://github.com/Dipti2021/ORM_E-Commerce_DR/issues) and let me know about it.
 
 
     
