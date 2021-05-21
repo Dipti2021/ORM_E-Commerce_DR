@@ -52,35 +52,43 @@ command to run the app
  __Here are some screenshots taken from the terminal and the ecommerce database created on MySql workbench__
  
   * __Seeding__
+  
  ![image1](Assets/seed.png)
  
  
   * __Categories__
+  
   ![image2](Assets/cat.png)
   
  
    * __Products__
+   
   ![image3](Assets/product.png)
   
   
    * __Product Tags__
+   
   ![image4](Assets/prodtag.png)
   
   
   * __Tags__
+  
   ![image6](Assets/tag.png)
   
  
  ## Demo of the App
  A demo of this app has been divided into 3 parts. Each gif shows the _CREATE, UPDATE & DELETE_ outputs for the _products, tags and categories_ created.
  
- 1. CREATE, UPDATE & DELETE- Products
+ 1. __CREATE, UPDATE & DELETE - Products__
+ 
  ![image5](Assets/products.gif)
  
- 2. CREATE, UPDATE & DELETE- Tags
+ 2. __CREATE, UPDATE & DELETE - Tags__
+ 
  ![image1](Assets/products.gif)
  
-  3. CREATE, UPDATE & DELETE- Categories
+  3. __CREATE, UPDATE & DELETE - Categories__
+  
  ![image1](Assets/categories.gif)
  
  You can also view the same code as a video by clicking on [this Youtube link](https://www.youtube.com/watch?v=AwkMgw_AwpU)
