@@ -67,6 +67,9 @@ command to run the app
   ![image4](Assets/prodtag.png)
   
   
+  * __Tags__
+  ![image6](Assets/tag.png)
+  
  
  ## Demo of the App
  A demo of this app has been divided into 3 parts. Each gif shows the _CREATE, UPDATE & DELETE_ outputs for the _products, tags and categories_ created.
